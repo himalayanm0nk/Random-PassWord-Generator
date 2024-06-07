@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #0d0567;
+
+}
+.container{
+    
+    width: 50%;
+    /* border: 2px solid beige; */
+    margin: 12%;
+}
+h2{
+    font-size: 35px;
+    color: white;
+    font-weight: 400;
+    line-height: 30px;
+}
+#inputBox{
+    margin: 20px 0;
+    padding: 10px;
+    width: 50%;
+    font-size: 20px;
+}
+#copy{
+    padding: 10px;
+    cursor: pointer;
+}
+
+#Generate{
+width: 20%;
+height: 10%;
+padding: 10px;
+background-color: #0d5905;
+cursor: pointer;
+}
